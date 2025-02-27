@@ -20,7 +20,7 @@ Pkg.add(["Pluto", "PlutoUI", "PlutoTeachingTools", "Plots", "PlotlyJS", "LinearA
 import Pluto (or use: using Pluto) <br> 
 Pluto.run() <br>
 
-2. Load the Assignement_FDTD-Giovanna-Rizkallah.jl notebook. <br>
+2. Load the FDTD-Simulations-EM-2D.jl notebook. <br>
 Run all cells to execute the simulation and visualize results. <br>
 
 **Visualizations <br>**
